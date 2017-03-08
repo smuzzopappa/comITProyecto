@@ -85,6 +85,19 @@ listadoCelulares = [
 			"camara_frontal_res": "5 Mpx",
 			"memoria_interna": "16 GB",
 			"flash": true
+		},
+		{
+			"id": 6,
+			"marca": "Lenovo",
+			"modelo": "VIBE K5",
+			"sistema_operativo": "Android",
+			"pantalla_pulgadas": 5,
+			"pantalla_resolucion": "800x480",
+			"camara_resolucion": "13 Mpx",
+			"camara_frontal": true,
+			"camara_frontal_res": "5 Mpx",
+			"memoria_interna": "16 GB",
+			"flash": true
 		}
 	];
 
